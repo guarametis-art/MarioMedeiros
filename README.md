@@ -52,7 +52,7 @@ Funcionalidades:
 
 ## Contato
 
-📧 mario@guarametis.com.br
+📧 mario.leme@guarametis.com.br
 
 WhatsApp (11) 96831-5802
 
