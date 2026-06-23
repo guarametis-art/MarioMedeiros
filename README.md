@@ -8,7 +8,7 @@ Desenvolvedor de sistemas corporativos com experiência em desenvolvimento de ER
 
 - Python
 - FastAPI
-- SQL Server
+- Postgres SQL
 - HTML5
 - CSS3
 - JavaScript
@@ -42,7 +42,7 @@ Funcionalidades:
 
 ✔ APIs REST com FastAPI
 
-✔ SQL Server
+✔ Postgres SQL
 
 ✔ Sistemas em Produção
 
